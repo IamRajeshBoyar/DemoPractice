@@ -23,6 +23,20 @@ public class LeftRotateExample {
 		
 		//this is to check whether the branch is correctly working or not
 		
+		//right rotate example
+		/*
+		 * 1
+		 * 2
+		 * 3
+		 * 4
+		 * 5
+		 * 6
+		 * 7
+		 * 8
+		 * 9
+		 * 10
+		 * 
+		 */
 
 	}
 
